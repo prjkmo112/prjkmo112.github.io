@@ -4,4 +4,7 @@
 > Used model: [RandomForestClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 
 ---
-My Code : https://www.kaggle.com/code/progrkj/titanic-rf-classifier
+- My Code
+    [https://www.kaggle.com/code/progrkj/titanic-rf-classifier](https://www.kaggle.com/code/progrkj/titanic-rf-classifier)
+- My Rank
+![](./kaggle.png)
