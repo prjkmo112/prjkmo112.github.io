@@ -15,5 +15,4 @@
 
 ## 문제2. 분류 연습문제
 
-- [분류 연습문제1](colab_practice/practice1/index.html)
-
+- [분류 연습문제 ipynb 보기](colab_practice/practice/index.html)
